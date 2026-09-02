@@ -28,3 +28,8 @@ jenkins-cicd-task/
 ├── Dockerfile
 ├── Jenkinsfile
 └── README.md
+## Screenshots                                                                                                                                                           ### Jenkins Pipeline Success
+![Jenkins Pipeline Success](...)<img width="1901" height="897" alt="image" src="https://github.com/user-attachments/assets/affae75e-6754-4014-81ec-deb47e148db2" />
+### Console Output
+![Console Output](...)
+<img width="1877" height="896" alt="image" src="https://github.com/user-attachments/assets/61a12b32-375e-4bb5-a1a3-0370e14309ce" />
